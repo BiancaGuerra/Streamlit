@@ -19,4 +19,6 @@ def main():
         st.write(f'vc fez o upload de: {upload.name}')
     data = {'x': [1,2,3,4], 'y': [10,20,30,40]}
     st.line_chart(data)
+
+    st.write('atualizadooo')
 main()
